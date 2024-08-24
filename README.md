@@ -7,4 +7,7 @@ made with HTML, CSS, JS
 
 
 The original design had a set width of 1440px but I adjusted that to 1920px, while maintaining the design similarity and the responsiveness
-It was a fun challenge, I'll be doing more of these challenges 
+It was a fun challenge, I'll be doing more of these challenges.
+
+Incase you're on Github mobile the link for the page is down below;
+https://njau-dev.github.io/FAQ-Accordion-Challenge/
